@@ -1,37 +1,22 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useMemo } from "react";
 import { useI18n } from "@/lib/i18n/context";
 import { publishedProfiles } from "@/lib/profiles";
+import { useActiveChapter } from "@/lib/use-active-chapter";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 
 export function SiteNav({ slug }: { slug: string }) {
   const { t, href } = useI18n();
-  const [active, setActive] = useState<string>(t.nav.chapters[0].id);
+  const chapterIds = useMemo(() => t.nav.chapters.map((c) => c.id), [t.nav.chapters]);
+  const active = useActiveChapter(chapterIds, t.nav.chapters[0].id);
   const others = publishedProfiles.filter((p) => p.slug !== slug);
-
-  useEffect(() => {
-    const nodes = t.nav.chapters
-      .map((c) => document.getElementById(c.id))
-      .filter((n): n is HTMLElement => Boolean(n));
-    const obs = new IntersectionObserver(
-      (entries) => {
-        const visible = entries
-          .filter((e) => e.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-        if (visible?.target.id) setActive(visible.target.id);
-      },
-      { threshold: [0.2, 0.45, 0.7], rootMargin: "-18% 0px -40% 0px" },
-    );
-    nodes.forEach((n) => obs.observe(n));
-    return () => obs.disconnect();
-  }, [t.nav.chapters]);
 
   return (
     <nav
       aria-label={t.nav.stories}
-      className="pointer-events-none fixed inset-x-0 top-0 z-40 flex justify-center p-2 md:inset-auto md:top-1/2 md:right-5 md:-translate-y-1/2 md:p-0"
+      className="desktop-nav pointer-events-none fixed inset-x-0 top-0 z-40 flex justify-center p-2 md:inset-auto md:top-1/2 md:right-5 md:-translate-y-1/2 md:p-0"
     >
       <div className="pointer-events-auto flex max-w-[calc(100vw-1rem)] flex-col items-stretch gap-2 md:max-w-none">
         <div className="hidden items-center justify-between gap-2 md:flex">

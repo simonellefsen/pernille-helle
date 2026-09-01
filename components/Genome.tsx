@@ -30,7 +30,7 @@ export function Genome({ profile }: { profile: Profile }) {
         </Reveal>
 
         <div className="mt-10 rounded-3xl border border-white/10 bg-black/25 p-5 md:p-8">
-          <div className="flex items-end gap-[2px] md:gap-1.5" role="list">
+          <div className="skyline-scroll flex items-end gap-[2px] md:gap-1.5" role="list">
             {chromosomes.map((c) => {
               const on = c.id === active;
               const h = 8 + (c.snps / max) * 220;

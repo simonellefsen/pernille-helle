@@ -35,7 +35,7 @@ export function ChromosomeShare() {
           {t.shared.opposite}
         </span>
       </div>
-      <div className="flex items-end gap-[3px] md:gap-1.5">
+      <div className="skyline-scroll flex items-end gap-[3px] md:gap-1.5">
         {sharing.chromosomes.map((c) => {
           const on = c.id === active;
           const h = 40 + c.shareAtLeastOne * 180;

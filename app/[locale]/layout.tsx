@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Fraunces, Outfit } from "next/font/google";
 import { notFound } from "next/navigation";
+import { PhoneDock } from "@/components/PhoneDock";
+import { DEVICE_BOOT } from "@/lib/device";
+import { DeviceProvider } from "@/lib/device-context";
 import { I18nProvider } from "@/lib/i18n/context";
 import {
   isLocale,
@@ -66,9 +69,15 @@ export default async function LocaleLayout({
   if (!isLocale(locale)) notFound();
 
   return (
-    <html lang={locale} className={`${display.variable} ${sans.variable}`}>
+    <html lang={locale} className={`${display.variable} ${sans.variable}`} suppressHydrationWarning>
       <body className="antialiased">
-        <I18nProvider locale={locale as Locale}>{children}</I18nProvider>
+        <script dangerouslySetInnerHTML={{ __html: DEVICE_BOOT }} />
+        <I18nProvider locale={locale as Locale}>
+          <DeviceProvider>
+            {children}
+            <PhoneDock />
+          </DeviceProvider>
+        </I18nProvider>
       </body>
     </html>
   );

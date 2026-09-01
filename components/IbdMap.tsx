@@ -45,7 +45,7 @@ export function IbdMap() {
 
       <div className="mt-8 rounded-3xl border border-white/10 bg-black/25 p-5 md:p-8">
         <p className="mb-6 text-sm text-muted">{s.ibd.hover}</p>
-        <div className="flex items-end gap-[3px] md:gap-1.5">
+        <div className="skyline-scroll flex items-end gap-[3px] md:gap-1.5">
           {ibd.chromosomes.map((c) => {
             const on = c.id === active;
             const h = 16 + (c.ibdCm / c.mapCm) * 180;

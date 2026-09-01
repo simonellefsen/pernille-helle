@@ -32,7 +32,7 @@ export function Hero({ profile, locale }: { profile: Profile; locale: Locale }) 
         className="pointer-events-none absolute -right-10 top-1/2 hidden w-[58vw] max-w-3xl -translate-y-1/2 opacity-70 mix-blend-screen md:block"
       />
 
-      <div className="relative z-10 mx-auto flex min-h-[100svh] w-full min-w-0 max-w-6xl flex-col justify-end px-5 pb-16 pt-24 md:justify-center md:px-8 md:pt-28 md:pb-24 md:pr-28">
+      <div className="hero-copy relative z-10 mx-auto flex min-h-[100svh] w-full min-w-0 max-w-6xl flex-col justify-end px-5 pb-16 pt-24 md:justify-center md:px-8 md:pt-28 md:pb-24 md:pr-28">
         <p className="kicker max-w-full whitespace-normal break-words text-[0.62rem] tracking-[0.14em] md:text-[0.72rem] md:tracking-[0.28em]">
           {profile.tested}
         </p>

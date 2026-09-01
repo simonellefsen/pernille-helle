@@ -23,10 +23,12 @@ export function OriginCompare() {
                 on ? "border-white/25 bg-white/8" : "border-white/10 hover:border-white/20"
               }`}
             >
-              <div className="mb-2 flex items-center justify-between gap-3 text-sm">
+              <div className="mb-2 flex flex-col gap-1 text-sm sm:flex-row sm:items-center sm:justify-between sm:gap-3">
                 <span>{t.originLabels[row.id] ?? row.label}</span>
                 <span className="text-muted">
-                  Pernille {row.pernilleDisplay ?? `${row.pernille}%`} · Helle {row.helle}%
+                  Pernille {row.pernilleDisplay ?? `${row.pernille}%`}
+                  <span className="hidden sm:inline"> · </span>
+                  <span className="block sm:inline">Helle {row.helle}%</span>
                 </span>
               </div>
               <div className="grid grid-cols-2 gap-3">

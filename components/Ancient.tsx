@@ -26,7 +26,7 @@ export function Ancient({ profile }: { profile: Profile }) {
         </Reveal>
 
         <div className="mt-10 overflow-hidden rounded-full border border-white/10">
-          <div className="flex h-4">
+          <div className="ancient-meter flex h-4">
             {ancientOrigins.map((o) => (
               <button
                 key={o.id}

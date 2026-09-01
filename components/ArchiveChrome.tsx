@@ -7,7 +7,7 @@ import { LanguageSwitcher } from "./LanguageSwitcher";
 export function ArchiveChrome({ home = true }: { home?: boolean }) {
   const { href, t } = useI18n();
   return (
-    <div className="pointer-events-none fixed inset-x-0 top-0 z-40 flex justify-end p-3">
+    <div className="desktop-nav pointer-events-none fixed inset-x-0 top-0 z-40 flex justify-end p-3">
       <div className="pointer-events-auto flex items-center gap-2">
         {!home ? (
           <Link

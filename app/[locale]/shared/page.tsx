@@ -66,7 +66,7 @@ export default async function SharedPage({ params }: { params: Promise<Params> }
         />
         <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-black/20" />
         <div className="absolute inset-0 bg-gradient-to-t from-bg via-transparent to-black/30" />
-        <div className="relative z-10 mx-auto flex min-h-[100svh] w-full min-w-0 max-w-6xl flex-col justify-end px-5 pb-16 pt-24 md:justify-center md:px-8">
+        <div className="hero-copy relative z-10 mx-auto flex min-h-[100svh] w-full min-w-0 max-w-6xl flex-col justify-end px-5 pb-16 pt-24 md:justify-center md:px-8">
           <p className="kicker">{t.shared.heroKicker}</p>
           <h1 className="mt-4 max-w-3xl font-display text-[2.6rem] leading-[0.95] sm:text-6xl md:text-7xl">
             Helle &amp; Pernille

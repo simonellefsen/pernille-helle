@@ -27,6 +27,8 @@ export type Messages = {
     allStories: string;
     stories: string;
     shared: string;
+    jump: string;
+    close: string;
     chapters: { id: string; label: string }[];
     langEn: string;
     langDa: string;
@@ -197,6 +199,8 @@ export const messages: Record<Locale, Messages> = {
       allStories: "Home",
       stories: "Family",
       shared: "Shared",
+      jump: "Jump",
+      close: "Close",
       chapters: [
         { id: "open", label: "Open" },
         { id: "origins", label: "Origins" },
@@ -440,6 +444,8 @@ export const messages: Record<Locale, Messages> = {
       allStories: "Hjem",
       stories: "Familien",
       shared: "Fælles",
+      jump: "Gå til",
+      close: "Luk",
       chapters: [
         { id: "open", label: "Åbn" },
         { id: "origins", label: "Rødder" },

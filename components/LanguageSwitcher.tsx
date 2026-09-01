@@ -28,7 +28,7 @@ export function LanguageSwitcher() {
 
   return (
     <div
-      className="pointer-events-auto flex items-center gap-0.5 rounded-full border border-white/10 bg-black/45 p-1 backdrop-blur-md"
+      className="lang-switch pointer-events-auto flex items-center gap-0.5 rounded-full border border-white/10 bg-black/45 p-1 backdrop-blur-md"
       aria-label={t.nav.language}
     >
       {btn("en", t.nav.langEn)}

@@ -42,7 +42,7 @@ export default async function HomePage({ params }: { params: Promise<Params> }) 
         />
         <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/70 to-black/40" />
         <div className="absolute inset-0 bg-gradient-to-t from-bg via-transparent to-black/40" />
-        <div className="relative z-10 mx-auto flex min-h-[70svh] w-full min-w-0 max-w-6xl flex-col justify-end px-5 pb-16 pt-20 md:justify-center md:px-8">
+        <div className="hero-copy relative z-10 mx-auto flex min-h-[70svh] w-full min-w-0 max-w-6xl flex-col justify-end px-5 pb-16 pt-20 md:justify-center md:px-8">
           <p className="kicker">{t.home.kicker}</p>
           <h1 className="mt-4 max-w-3xl font-display text-[2.5rem] leading-[0.95] sm:text-6xl md:text-7xl">
             {t.meta.siteTitle}

@@ -7,7 +7,7 @@ import type { Profile } from "@/lib/types";
 export function Notes({ profile, locale }: { profile: Profile; locale: Locale }) {
   const t = getMessages(locale);
   return (
-    <section id="notes" className="chapter pb-24">
+    <section id="notes" className="chapter pb-28 md:pb-24">
       <div className="mx-auto max-w-3xl">
         <p className="kicker">{t.notes.kicker}</p>
         <h2 className="mt-3 font-display text-4xl md:text-5xl">{t.notes.title}</h2>
