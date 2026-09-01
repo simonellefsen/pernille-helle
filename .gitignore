@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.vercel
+.env*
+.DS_Store
+*.log
+npm-debug.log*
+ftdna/
+scripts/__pycache__/
+public/sprites/src/
+scripts/shots.mjs
+tsconfig.tsbuildinfo

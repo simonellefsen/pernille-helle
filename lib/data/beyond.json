@@ -1,0 +1,1184 @@
+{
+  "a": "pernille",
+  "b": "helle",
+  "relation": "paternal-grandmother",
+  "method": "Unphased no-IBS0 runs, gaps >1 Mb break a segment. Lengths use a sex-averaged chromosome genetic map, not a dense recombination map. Opposite homozygotes cannot sit inside a shared haplotype. This is candidate IBD, not a published match list.",
+  "ibd": {
+    "autosomalCm": 1453.2,
+    "xCm": 173.3,
+    "autosomalSegments": 40,
+    "longestAutosomalCm": 112.4,
+    "expectedGrandparentCm": "~1,500\u20132,000 cM autosomal (one quarter of the genome, broken by recombination in the father)",
+    "chromosomes": [
+      {
+        "id": "1",
+        "mapCm": 286.54,
+        "physMb": 249.25,
+        "ibdCm": 0,
+        "ibdMb": 0,
+        "longestCm": 0,
+        "segments": 0
+      },
+      {
+        "id": "2",
+        "mapCm": 268.76,
+        "physMb": 243.2,
+        "ibdCm": 14.5,
+        "ibdMb": 13.1,
+        "longestCm": 14.5,
+        "segments": 1
+      },
+      {
+        "id": "3",
+        "mapCm": 223.28,
+        "physMb": 198.02,
+        "ibdCm": 95.6,
+        "ibdMb": 84.8,
+        "longestCm": 53.3,
+        "segments": 3
+      },
+      {
+        "id": "4",
+        "mapCm": 214.07,
+        "physMb": 191.15,
+        "ibdCm": 123.2,
+        "ibdMb": 110.0,
+        "longestCm": 63.2,
+        "segments": 3
+      },
+      {
+        "id": "5",
+        "mapCm": 204.07,
+        "physMb": 180.92,
+        "ibdCm": 118.3,
+        "ibdMb": 104.9,
+        "longestCm": 112.4,
+        "segments": 2
+      },
+      {
+        "id": "6",
+        "mapCm": 191.97,
+        "physMb": 171.12,
+        "ibdCm": 15.0,
+        "ibdMb": 13.4,
+        "longestCm": 15.0,
+        "segments": 1
+      },
+      {
+        "id": "7",
+        "mapCm": 187.06,
+        "physMb": 159.14,
+        "ibdCm": 168.8,
+        "ibdMb": 143.6,
+        "longestCm": 100.6,
+        "segments": 3
+      },
+      {
+        "id": "8",
+        "mapCm": 167.99,
+        "physMb": 146.36,
+        "ibdCm": 129.2,
+        "ibdMb": 112.5,
+        "longestCm": 85.2,
+        "segments": 2
+      },
+      {
+        "id": "9",
+        "mapCm": 166.36,
+        "physMb": 141.21,
+        "ibdCm": 37.0,
+        "ibdMb": 31.4,
+        "longestCm": 37.0,
+        "segments": 1
+      },
+      {
+        "id": "10",
+        "mapCm": 181.14,
+        "physMb": 135.53,
+        "ibdCm": 88.5,
+        "ibdMb": 66.2,
+        "longestCm": 30.0,
+        "segments": 4
+      },
+      {
+        "id": "11",
+        "mapCm": 158.22,
+        "physMb": 135.01,
+        "ibdCm": 143.8,
+        "ibdMb": 122.7,
+        "longestCm": 78.6,
+        "segments": 3
+      },
+      {
+        "id": "12",
+        "mapCm": 174.68,
+        "physMb": 133.85,
+        "ibdCm": 20.9,
+        "ibdMb": 16.0,
+        "longestCm": 14.6,
+        "segments": 2
+      },
+      {
+        "id": "13",
+        "mapCm": 125.71,
+        "physMb": 115.17,
+        "ibdCm": 104.8,
+        "ibdMb": 96.0,
+        "longestCm": 104.8,
+        "segments": 1
+      },
+      {
+        "id": "14",
+        "mapCm": 120.2,
+        "physMb": 107.35,
+        "ibdCm": 0,
+        "ibdMb": 0,
+        "longestCm": 0,
+        "segments": 0
+      },
+      {
+        "id": "15",
+        "mapCm": 141.35,
+        "physMb": 102.53,
+        "ibdCm": 45.3,
+        "ibdMb": 32.9,
+        "longestCm": 34.8,
+        "segments": 2
+      },
+      {
+        "id": "16",
+        "mapCm": 134.04,
+        "physMb": 90.35,
+        "ibdCm": 32.5,
+        "ibdMb": 21.9,
+        "longestCm": 26.7,
+        "segments": 2
+      },
+      {
+        "id": "17",
+        "mapCm": 128.4,
+        "physMb": 81.19,
+        "ibdCm": 0,
+        "ibdMb": 0,
+        "longestCm": 0,
+        "segments": 0
+      },
+      {
+        "id": "18",
+        "mapCm": 117.28,
+        "physMb": 78.08,
+        "ibdCm": 97.2,
+        "ibdMb": 64.7,
+        "longestCm": 69.4,
+        "segments": 3
+      },
+      {
+        "id": "19",
+        "mapCm": 107.89,
+        "physMb": 59.13,
+        "ibdCm": 94.7,
+        "ibdMb": 51.9,
+        "longestCm": 44.3,
+        "segments": 3
+      },
+      {
+        "id": "20",
+        "mapCm": 108.2,
+        "physMb": 63.03,
+        "ibdCm": 86.5,
+        "ibdMb": 50.4,
+        "longestCm": 45.0,
+        "segments": 2
+      },
+      {
+        "id": "21",
+        "mapCm": 62.79,
+        "physMb": 48.13,
+        "ibdCm": 10.5,
+        "ibdMb": 8.1,
+        "longestCm": 10.5,
+        "segments": 1
+      },
+      {
+        "id": "22",
+        "mapCm": 74.1,
+        "physMb": 51.3,
+        "ibdCm": 26.9,
+        "ibdMb": 18.6,
+        "longestCm": 26.9,
+        "segments": 1
+      },
+      {
+        "id": "X",
+        "mapCm": 180.84,
+        "physMb": 155.27,
+        "ibdCm": 173.3,
+        "ibdMb": 148.8,
+        "longestCm": 99.4,
+        "segments": 3
+      }
+    ],
+    "segments": [
+      {
+        "chromosome": "5",
+        "start": 70305696,
+        "end": 169978127,
+        "mb": 99.67,
+        "snps": 21705,
+        "cM": 112.4,
+        "identicalShare": 0.693
+      },
+      {
+        "chromosome": "13",
+        "start": 19058717,
+        "end": 115103529,
+        "mb": 96.04,
+        "snps": 25968,
+        "cM": 104.8,
+        "identicalShare": 0.729
+      },
+      {
+        "chromosome": "7",
+        "start": 61074194,
+        "end": 146694441,
+        "mb": 85.62,
+        "snps": 16587,
+        "cM": 100.6,
+        "identicalShare": 0.716
+      },
+      {
+        "chromosome": "X",
+        "start": 61719290,
+        "end": 147061906,
+        "mb": 85.34,
+        "snps": 8552,
+        "cM": 99.4,
+        "identicalShare": 0.761
+      },
+      {
+        "chromosome": "8",
+        "start": 46886735,
+        "end": 121104385,
+        "mb": 74.22,
+        "snps": 14271,
+        "cM": 85.2,
+        "identicalShare": 0.698
+      },
+      {
+        "chromosome": "11",
+        "start": 54794237,
+        "end": 121840829,
+        "mb": 67.05,
+        "snps": 16228,
+        "cM": 78.6,
+        "identicalShare": 0.711
+      },
+      {
+        "chromosome": "18",
+        "start": 18561020,
+        "end": 64771512,
+        "mb": 46.21,
+        "snps": 11384,
+        "cM": 69.4,
+        "identicalShare": 0.724
+      },
+      {
+        "chromosome": "X",
+        "start": 2700157,
+        "end": 58374872,
+        "mb": 55.67,
+        "snps": 7089,
+        "cM": 64.8,
+        "identicalShare": 0.722
+      },
+      {
+        "chromosome": "4",
+        "start": 52697856,
+        "end": 109113914,
+        "mb": 56.42,
+        "snps": 10333,
+        "cM": 63.2,
+        "identicalShare": 0.722
+      },
+      {
+        "chromosome": "3",
+        "start": 14409443,
+        "end": 61720229,
+        "mb": 47.31,
+        "snps": 11162,
+        "cM": 53.3,
+        "identicalShare": 0.681
+      },
+      {
+        "chromosome": "11",
+        "start": 7485711,
+        "end": 51591253,
+        "mb": 44.11,
+        "snps": 11275,
+        "cM": 51.7,
+        "identicalShare": 0.721
+      },
+      {
+        "chromosome": "4",
+        "start": 6392879,
+        "end": 49620898,
+        "mb": 43.23,
+        "snps": 9272,
+        "cM": 48.4,
+        "identicalShare": 0.697
+      },
+      {
+        "chromosome": "7",
+        "start": 18223455,
+        "end": 58019061,
+        "mb": 39.8,
+        "snps": 10211,
+        "cM": 46.8,
+        "identicalShare": 0.69
+      },
+      {
+        "chromosome": "20",
+        "start": 63799,
+        "end": 26293985,
+        "mb": 26.23,
+        "snps": 8085,
+        "cM": 45.0,
+        "identicalShare": 0.699
+      },
+      {
+        "chromosome": "19",
+        "start": 260912,
+        "end": 24562565,
+        "mb": 24.3,
+        "snps": 5805,
+        "cM": 44.3,
+        "identicalShare": 0.711
+      },
+      {
+        "chromosome": "8",
+        "start": 5457857,
+        "end": 43791691,
+        "mb": 38.33,
+        "snps": 10819,
+        "cM": 44.0,
+        "identicalShare": 0.717
+      },
+      {
+        "chromosome": "20",
+        "start": 29507543,
+        "end": 53704965,
+        "mb": 24.2,
+        "snps": 6167,
+        "cM": 41.5,
+        "identicalShare": 0.728
+      },
+      {
+        "chromosome": "9",
+        "start": 7757891,
+        "end": 39179289,
+        "mb": 31.42,
+        "snps": 9242,
+        "cM": 37.0,
+        "identicalShare": 0.729
+      },
+      {
+        "chromosome": "15",
+        "start": 69610028,
+        "end": 94852720,
+        "mb": 25.24,
+        "snps": 6292,
+        "cM": 34.8,
+        "identicalShare": 0.706
+      },
+      {
+        "chromosome": "3",
+        "start": 171130793,
+        "end": 197838262,
+        "mb": 26.71,
+        "snps": 5964,
+        "cM": 30.1,
+        "identicalShare": 0.699
+      },
+      {
+        "chromosome": "10",
+        "start": 110210233,
+        "end": 132688084,
+        "mb": 22.48,
+        "snps": 7130,
+        "cM": 30.0,
+        "identicalShare": 0.697
+      },
+      {
+        "chromosome": "19",
+        "start": 42768288,
+        "end": 57519466,
+        "mb": 14.75,
+        "snps": 4201,
+        "cM": 26.9,
+        "identicalShare": 0.714
+      },
+      {
+        "chromosome": "22",
+        "start": 16114244,
+        "end": 34758702,
+        "mb": 18.64,
+        "snps": 4670,
+        "cM": 26.9,
+        "identicalShare": 0.71
+      },
+      {
+        "chromosome": "16",
+        "start": 6004741,
+        "end": 23990906,
+        "mb": 17.99,
+        "snps": 5078,
+        "cM": 26.7,
+        "identicalShare": 0.68
+      },
+      {
+        "chromosome": "10",
+        "start": 90964026,
+        "end": 110209221,
+        "mb": 19.25,
+        "snps": 5012,
+        "cM": 25.7,
+        "identicalShare": 0.744
+      },
+      {
+        "chromosome": "19",
+        "start": 29877328,
+        "end": 42763306,
+        "mb": 12.89,
+        "snps": 3030,
+        "cM": 23.5,
+        "identicalShare": 0.693
+      },
+      {
+        "chromosome": "7",
+        "start": 44935,
+        "end": 18221400,
+        "mb": 18.18,
+        "snps": 5303,
+        "cM": 21.4,
+        "identicalShare": 0.683
+      },
+      {
+        "chromosome": "10",
+        "start": 1849532,
+        "end": 17167732,
+        "mb": 15.32,
+        "snps": 6007,
+        "cM": 20.5,
+        "identicalShare": 0.714
+      },
+      {
+        "chromosome": "18",
+        "start": 64777549,
+        "end": 78015180,
+        "mb": 13.24,
+        "snps": 4313,
+        "cM": 19.9,
+        "identicalShare": 0.69
+      },
+      {
+        "chromosome": "6",
+        "start": 203878,
+        "end": 13598122,
+        "mb": 13.39,
+        "snps": 4294,
+        "cM": 15.0,
+        "identicalShare": 0.674
+      },
+      {
+        "chromosome": "12",
+        "start": 191619,
+        "end": 11354334,
+        "mb": 11.16,
+        "snps": 3375,
+        "cM": 14.6,
+        "identicalShare": 0.704
+      },
+      {
+        "chromosome": "2",
+        "start": 18674,
+        "end": 13111388,
+        "mb": 13.09,
+        "snps": 4040,
+        "cM": 14.5,
+        "identicalShare": 0.711
+      },
+      {
+        "chromosome": "11",
+        "start": 123411662,
+        "end": 134934063,
+        "mb": 11.52,
+        "snps": 3761,
+        "cM": 13.5,
+        "identicalShare": 0.695
+      },
+      {
+        "chromosome": "10",
+        "start": 81765502,
+        "end": 90944659,
+        "mb": 9.18,
+        "snps": 2418,
+        "cM": 12.3,
+        "identicalShare": 0.655
+      },
+      {
+        "chromosome": "3",
+        "start": 61722196,
+        "end": 72512244,
+        "mb": 10.79,
+        "snps": 3094,
+        "cM": 12.2,
+        "identicalShare": 0.706
+      },
+      {
+        "chromosome": "4",
+        "start": 180522174,
+        "end": 190880409,
+        "mb": 10.36,
+        "snps": 3036,
+        "cM": 11.6,
+        "identicalShare": 0.684
+      },
+      {
+        "chromosome": "15",
+        "start": 94853872,
+        "end": 102461162,
+        "mb": 7.61,
+        "snps": 2539,
+        "cM": 10.5,
+        "identicalShare": 0.64
+      },
+      {
+        "chromosome": "21",
+        "start": 40024182,
+        "end": 48090629,
+        "mb": 8.07,
+        "snps": 2808,
+        "cM": 10.5,
+        "identicalShare": 0.647
+      },
+      {
+        "chromosome": "X",
+        "start": 147072747,
+        "end": 154898561,
+        "mb": 7.83,
+        "snps": 1122,
+        "cM": 9.1,
+        "identicalShare": 0.678
+      },
+      {
+        "chromosome": "18",
+        "start": 10143877,
+        "end": 15375878,
+        "mb": 5.23,
+        "snps": 1214,
+        "cM": 7.9,
+        "identicalShare": 0.721
+      },
+      {
+        "chromosome": "12",
+        "start": 78589493,
+        "end": 83423340,
+        "mb": 4.83,
+        "snps": 893,
+        "cM": 6.3,
+        "identicalShare": 0.695
+      },
+      {
+        "chromosome": "5",
+        "start": 63954744,
+        "end": 69175823,
+        "mb": 5.22,
+        "snps": 1049,
+        "cM": 5.9,
+        "identicalShare": 0.75
+      },
+      {
+        "chromosome": "16",
+        "start": 2103005,
+        "end": 6000729,
+        "mb": 3.9,
+        "snps": 1054,
+        "cM": 5.8,
+        "identicalShare": 0.704
+      }
+    ]
+  },
+  "heterozygosity": {
+    "pernille": {
+      "called": 694533,
+      "heterozygous": 206115,
+      "heterozygosity": 0.2968,
+      "byChromosome": {
+        "X": {
+          "called": 17232,
+          "heterozygous": 4593,
+          "heterozygosity": 0.2665
+        },
+        "1": {
+          "called": 56959,
+          "heterozygous": 16243,
+          "heterozygosity": 0.2852
+        },
+        "2": {
+          "called": 55353,
+          "heterozygous": 16343,
+          "heterozygosity": 0.2953
+        },
+        "3": {
+          "called": 45316,
+          "heterozygous": 14041,
+          "heterozygosity": 0.3098
+        },
+        "4": {
+          "called": 38547,
+          "heterozygous": 11710,
+          "heterozygosity": 0.3038
+        },
+        "5": {
+          "called": 40429,
+          "heterozygous": 12308,
+          "heterozygosity": 0.3044
+        },
+        "6": {
+          "called": 46097,
+          "heterozygous": 13829,
+          "heterozygosity": 0.3
+        },
+        "7": {
+          "called": 36398,
+          "heterozygous": 10864,
+          "heterozygosity": 0.2985
+        },
+        "8": {
+          "called": 35537,
+          "heterozygous": 11392,
+          "heterozygosity": 0.3206
+        },
+        "9": {
+          "called": 31496,
+          "heterozygous": 9228,
+          "heterozygosity": 0.293
+        },
+        "10": {
+          "called": 37591,
+          "heterozygous": 10838,
+          "heterozygosity": 0.2883
+        },
+        "11": {
+          "called": 35207,
+          "heterozygous": 10191,
+          "heterozygosity": 0.2895
+        },
+        "12": {
+          "called": 34096,
+          "heterozygous": 10141,
+          "heterozygosity": 0.2974
+        },
+        "13": {
+          "called": 26669,
+          "heterozygous": 7844,
+          "heterozygosity": 0.2941
+        },
+        "14": {
+          "called": 22399,
+          "heterozygous": 6464,
+          "heterozygosity": 0.2886
+        },
+        "15": {
+          "called": 20834,
+          "heterozygous": 6409,
+          "heterozygosity": 0.3076
+        },
+        "16": {
+          "called": 21986,
+          "heterozygous": 6308,
+          "heterozygosity": 0.2869
+        },
+        "17": {
+          "called": 19539,
+          "heterozygous": 5880,
+          "heterozygosity": 0.3009
+        },
+        "18": {
+          "called": 20876,
+          "heterozygous": 5966,
+          "heterozygosity": 0.2858
+        },
+        "19": {
+          "called": 14359,
+          "heterozygous": 4261,
+          "heterozygosity": 0.2967
+        },
+        "20": {
+          "called": 17807,
+          "heterozygous": 5185,
+          "heterozygosity": 0.2912
+        },
+        "21": {
+          "called": 9805,
+          "heterozygous": 3046,
+          "heterozygosity": 0.3107
+        },
+        "22": {
+          "called": 10001,
+          "heterozygous": 3031,
+          "heterozygosity": 0.3031
+        }
+      }
+    },
+    "helle": {
+      "called": 691170,
+      "heterozygous": 201953,
+      "heterozygosity": 0.2922,
+      "byChromosome": {
+        "X": {
+          "called": 17056,
+          "heterozygous": 4417,
+          "heterozygosity": 0.259
+        },
+        "1": {
+          "called": 57659,
+          "heterozygous": 16355,
+          "heterozygosity": 0.2837
+        },
+        "2": {
+          "called": 55751,
+          "heterozygous": 16470,
+          "heterozygosity": 0.2954
+        },
+        "3": {
+          "called": 45098,
+          "heterozygous": 13039,
+          "heterozygosity": 0.2891
+        },
+        "4": {
+          "called": 38349,
+          "heterozygous": 11584,
+          "heterozygosity": 0.3021
+        },
+        "5": {
+          "called": 40197,
+          "heterozygous": 12477,
+          "heterozygosity": 0.3104
+        },
+        "6": {
+          "called": 45830,
+          "heterozygous": 13613,
+          "heterozygosity": 0.297
+        },
+        "7": {
+          "called": 36221,
+          "heterozygous": 10402,
+          "heterozygosity": 0.2872
+        },
+        "8": {
+          "called": 35263,
+          "heterozygous": 10636,
+          "heterozygosity": 0.3016
+        },
+        "9": {
+          "called": 31298,
+          "heterozygous": 9064,
+          "heterozygosity": 0.2896
+        },
+        "10": {
+          "called": 37217,
+          "heterozygous": 10745,
+          "heterozygosity": 0.2887
+        },
+        "11": {
+          "called": 34825,
+          "heterozygous": 10338,
+          "heterozygosity": 0.2969
+        },
+        "12": {
+          "called": 33737,
+          "heterozygous": 9521,
+          "heterozygosity": 0.2822
+        },
+        "13": {
+          "called": 26474,
+          "heterozygous": 7574,
+          "heterozygosity": 0.2861
+        },
+        "14": {
+          "called": 22144,
+          "heterozygous": 6351,
+          "heterozygosity": 0.2868
+        },
+        "15": {
+          "called": 20578,
+          "heterozygous": 6243,
+          "heterozygosity": 0.3034
+        },
+        "16": {
+          "called": 21627,
+          "heterozygous": 6312,
+          "heterozygosity": 0.2919
+        },
+        "17": {
+          "called": 19373,
+          "heterozygous": 5522,
+          "heterozygosity": 0.285
+        },
+        "18": {
+          "called": 20811,
+          "heterozygous": 5988,
+          "heterozygosity": 0.2877
+        },
+        "19": {
+          "called": 14247,
+          "heterozygous": 4281,
+          "heterozygosity": 0.3005
+        },
+        "20": {
+          "called": 17685,
+          "heterozygous": 5220,
+          "heterozygosity": 0.2952
+        },
+        "21": {
+          "called": 9801,
+          "heterozygous": 2965,
+          "heterozygosity": 0.3025
+        },
+        "22": {
+          "called": 9929,
+          "heterozygous": 2836,
+          "heterozygosity": 0.2856
+        }
+      }
+    }
+  },
+  "roh": {
+    "pernille": [
+      {
+        "chromosome": "11",
+        "start": 45704923,
+        "end": 51591253,
+        "mb": 5.89,
+        "snps": 618,
+        "cM": 6.9
+      },
+      {
+        "chromosome": "11",
+        "start": 54835203,
+        "end": 58081152,
+        "mb": 3.25,
+        "snps": 666,
+        "cM": 3.8
+      },
+      {
+        "chromosome": "18",
+        "start": 30845846,
+        "end": 32615837,
+        "mb": 1.77,
+        "snps": 314,
+        "cM": 2.7
+      },
+      {
+        "chromosome": "5",
+        "start": 41560079,
+        "end": 43304402,
+        "mb": 1.74,
+        "snps": 237,
+        "cM": 2.0
+      },
+      {
+        "chromosome": "3",
+        "start": 97727555,
+        "end": 99358539,
+        "mb": 1.63,
+        "snps": 376,
+        "cM": 1.8
+      }
+    ],
+    "helle": [
+      {
+        "chromosome": "14",
+        "start": 66287910,
+        "end": 68817413,
+        "mb": 2.53,
+        "snps": 416,
+        "cM": 2.8
+      },
+      {
+        "chromosome": "12",
+        "start": 58842262,
+        "end": 60859665,
+        "mb": 2.02,
+        "snps": 365,
+        "cM": 2.6
+      },
+      {
+        "chromosome": "10",
+        "start": 57191812,
+        "end": 58721707,
+        "mb": 1.53,
+        "snps": 267,
+        "cM": 2.0
+      },
+      {
+        "chromosome": "2",
+        "start": 202852216,
+        "end": 204583163,
+        "mb": 1.73,
+        "snps": 256,
+        "cM": 1.9
+      }
+    ],
+    "note": "Runs of homozygosity longer than 1.5 Mb. Long ROH can reflect a cousin marriage; a handful of medium runs is typical in northern Europeans."
+  },
+  "traits": {
+    "pernille": [
+      {
+        "id": "lactase",
+        "rsid": "rs4988235",
+        "gene": "MCM6 / LCT",
+        "label": "Lactase persistence",
+        "note": "European -13910C>T. TT/CT associated with digesting milk in adulthood.",
+        "called": true,
+        "chromosome": "2",
+        "position": 136608646,
+        "genotype": "A/A",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      },
+      {
+        "id": "lactase2",
+        "rsid": "rs182549",
+        "gene": "MCM6 / LCT",
+        "label": "Lactase persistence (linked)",
+        "note": "European -22018G>A/C>T tag, usually travels with rs4988235.",
+        "called": false
+      },
+      {
+        "id": "eyes",
+        "rsid": "rs12913832",
+        "gene": "HERC2 / OCA2",
+        "label": "Eye colour",
+        "note": "GG strongly associated with blue/grey eyes in Europeans; AA with brown.",
+        "called": false
+      },
+      {
+        "id": "skin24a5",
+        "rsid": "rs1426654",
+        "gene": "SLC24A5",
+        "label": "Light skin (SLC24A5)",
+        "note": "The A allele is nearly fixed in Europe and is the main light-skin variant.",
+        "called": true,
+        "chromosome": "15",
+        "position": 48426484,
+        "genotype": "A/A",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      },
+      {
+        "id": "skin45a2",
+        "rsid": "rs16891982",
+        "gene": "SLC45A2",
+        "label": "Light skin (SLC45A2)",
+        "note": "European light-skin allele; still variable in southern Europe.",
+        "called": false
+      },
+      {
+        "id": "irf4",
+        "rsid": "rs12203592",
+        "gene": "IRF4",
+        "label": "Hair / freckling",
+        "note": "T associated with lighter hair and freckling in Europeans.",
+        "called": false
+      },
+      {
+        "id": "mc1r7",
+        "rsid": "rs1805007",
+        "gene": "MC1R",
+        "label": "Red hair (R151C)",
+        "note": "A well-known red-hair loss-of-function allele.",
+        "called": false
+      },
+      {
+        "id": "mc1r8",
+        "rsid": "rs1805008",
+        "gene": "MC1R",
+        "label": "Red hair (R160W)",
+        "note": "A second common red-hair allele.",
+        "called": true,
+        "chromosome": "16",
+        "position": 89986144,
+        "genotype": "C/C",
+        "zygosity": "homozygous",
+        "state": "ancestral/ancestral"
+      },
+      {
+        "id": "earwax",
+        "rsid": "rs17822931",
+        "gene": "ABCC11",
+        "label": "Earwax type",
+        "note": "TT dry earwax (East Asian); CC wet earwax (typical in Europe).",
+        "called": true,
+        "chromosome": "16",
+        "position": 48258198,
+        "genotype": "C/C",
+        "zygosity": "homozygous",
+        "state": "ancestral/ancestral"
+      },
+      {
+        "id": "edar",
+        "rsid": "rs3827760",
+        "gene": "EDAR",
+        "label": "EDAR V370A",
+        "note": "East Asian hair-thickness allele; ancestral in Europe.",
+        "called": true,
+        "chromosome": "2",
+        "position": 109513601,
+        "genotype": "A/A",
+        "zygosity": "homozygous",
+        "state": "ancestral/ancestral"
+      },
+      {
+        "id": "secretor",
+        "rsid": "rs601338",
+        "gene": "FUT2",
+        "label": "ABO secretor status",
+        "note": "AA associated with non-secretor status in Europeans.",
+        "called": true,
+        "chromosome": "19",
+        "position": 49206674,
+        "genotype": "T/T",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      }
+    ],
+    "helle": [
+      {
+        "id": "lactase",
+        "rsid": "rs4988235",
+        "gene": "MCM6 / LCT",
+        "label": "Lactase persistence",
+        "note": "European -13910C>T. TT/CT associated with digesting milk in adulthood.",
+        "called": true,
+        "chromosome": "2",
+        "position": 136608646,
+        "genotype": "A/A",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      },
+      {
+        "id": "lactase2",
+        "rsid": "rs182549",
+        "gene": "MCM6 / LCT",
+        "label": "Lactase persistence (linked)",
+        "note": "European -22018G>A/C>T tag, usually travels with rs4988235.",
+        "called": true,
+        "chromosome": "2",
+        "position": 136616754,
+        "genotype": "T/T",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      },
+      {
+        "id": "eyes",
+        "rsid": "rs12913832",
+        "gene": "HERC2 / OCA2",
+        "label": "Eye colour",
+        "note": "GG strongly associated with blue/grey eyes in Europeans; AA with brown.",
+        "called": false
+      },
+      {
+        "id": "skin24a5",
+        "rsid": "rs1426654",
+        "gene": "SLC24A5",
+        "label": "Light skin (SLC24A5)",
+        "note": "The A allele is nearly fixed in Europe and is the main light-skin variant.",
+        "called": true,
+        "chromosome": "15",
+        "position": 48426484,
+        "genotype": "A/A",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      },
+      {
+        "id": "skin45a2",
+        "rsid": "rs16891982",
+        "gene": "SLC45A2",
+        "label": "Light skin (SLC45A2)",
+        "note": "European light-skin allele; still variable in southern Europe.",
+        "called": false
+      },
+      {
+        "id": "irf4",
+        "rsid": "rs12203592",
+        "gene": "IRF4",
+        "label": "Hair / freckling",
+        "note": "T associated with lighter hair and freckling in Europeans.",
+        "called": false
+      },
+      {
+        "id": "mc1r7",
+        "rsid": "rs1805007",
+        "gene": "MC1R",
+        "label": "Red hair (R151C)",
+        "note": "A well-known red-hair loss-of-function allele.",
+        "called": false
+      },
+      {
+        "id": "mc1r8",
+        "rsid": "rs1805008",
+        "gene": "MC1R",
+        "label": "Red hair (R160W)",
+        "note": "A second common red-hair allele.",
+        "called": true,
+        "chromosome": "16",
+        "position": 89986144,
+        "genotype": "C/C",
+        "zygosity": "homozygous",
+        "state": "ancestral/ancestral"
+      },
+      {
+        "id": "earwax",
+        "rsid": "rs17822931",
+        "gene": "ABCC11",
+        "label": "Earwax type",
+        "note": "TT dry earwax (East Asian); CC wet earwax (typical in Europe).",
+        "called": true,
+        "chromosome": "16",
+        "position": 48258198,
+        "genotype": "C/C",
+        "zygosity": "homozygous",
+        "state": "ancestral/ancestral"
+      },
+      {
+        "id": "edar",
+        "rsid": "rs3827760",
+        "gene": "EDAR",
+        "label": "EDAR V370A",
+        "note": "East Asian hair-thickness allele; ancestral in Europe.",
+        "called": true,
+        "chromosome": "2",
+        "position": 109513601,
+        "genotype": "A/A",
+        "zygosity": "homozygous",
+        "state": "ancestral/ancestral"
+      },
+      {
+        "id": "secretor",
+        "rsid": "rs601338",
+        "gene": "FUT2",
+        "label": "ABO secretor status",
+        "note": "AA associated with non-secretor status in Europeans.",
+        "called": true,
+        "chromosome": "19",
+        "position": 49206674,
+        "genotype": "T/T",
+        "zygosity": "homozygous",
+        "state": "derived/derived"
+      }
+    ],
+    "note": "Chip calls only. These are population associations, not a medical report and not a portrait."
+  }
+}

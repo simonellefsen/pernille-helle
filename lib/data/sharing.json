@@ -1,0 +1,245 @@
+{
+  "a": "pernille",
+  "b": "helle",
+  "relation": "paternal-grandmother",
+  "compared": 678311,
+  "ibs0": 21370,
+  "ibs1": 221538,
+  "ibs2": 435403,
+  "shareAtLeastOne": 0.9685,
+  "identical": 0.6419,
+  "opposite": 0.0315,
+  "chromosomes": [
+    {
+      "id": "1",
+      "compared": 56372,
+      "ibs0": 3135,
+      "ibs1": 19775,
+      "ibs2": 33462,
+      "shareAtLeastOne": 0.9444,
+      "identical": 0.5936,
+      "opposite": 0.0556
+    },
+    {
+      "id": "2",
+      "compared": 54768,
+      "ibs0": 3063,
+      "ibs1": 19337,
+      "ibs2": 32368,
+      "shareAtLeastOne": 0.9441,
+      "identical": 0.591,
+      "opposite": 0.0559
+    },
+    {
+      "id": "3",
+      "compared": 44269,
+      "ibs0": 1527,
+      "ibs1": 14842,
+      "ibs2": 27900,
+      "shareAtLeastOne": 0.9655,
+      "identical": 0.6302,
+      "opposite": 0.0345
+    },
+    {
+      "id": "4",
+      "compared": 37415,
+      "ibs0": 798,
+      "ibs1": 12110,
+      "ibs2": 24507,
+      "shareAtLeastOne": 0.9787,
+      "identical": 0.655,
+      "opposite": 0.0213
+    },
+    {
+      "id": "5",
+      "compared": 39374,
+      "ibs0": 859,
+      "ibs1": 12962,
+      "ibs2": 25553,
+      "shareAtLeastOne": 0.9782,
+      "identical": 0.649,
+      "opposite": 0.0218
+    },
+    {
+      "id": "6",
+      "compared": 44930,
+      "ibs0": 2097,
+      "ibs1": 15615,
+      "ibs2": 27218,
+      "shareAtLeastOne": 0.9533,
+      "identical": 0.6058,
+      "opposite": 0.0467
+    },
+    {
+      "id": "7",
+      "compared": 35438,
+      "ibs0": 299,
+      "ibs1": 10684,
+      "ibs2": 24455,
+      "shareAtLeastOne": 0.9916,
+      "identical": 0.6901,
+      "opposite": 0.0084
+    },
+    {
+      "id": "8",
+      "compared": 34626,
+      "ibs0": 715,
+      "ibs1": 10991,
+      "ibs2": 22920,
+      "shareAtLeastOne": 0.9794,
+      "identical": 0.6619,
+      "opposite": 0.0206
+    },
+    {
+      "id": "9",
+      "compared": 30683,
+      "ibs0": 1379,
+      "ibs1": 10174,
+      "ibs2": 19130,
+      "shareAtLeastOne": 0.9551,
+      "identical": 0.6235,
+      "opposite": 0.0449
+    },
+    {
+      "id": "10",
+      "compared": 36701,
+      "ibs0": 968,
+      "ibs1": 11622,
+      "ibs2": 24111,
+      "shareAtLeastOne": 0.9736,
+      "identical": 0.657,
+      "opposite": 0.0264
+    },
+    {
+      "id": "11",
+      "compared": 34295,
+      "ibs0": 180,
+      "ibs1": 10055,
+      "ibs2": 24060,
+      "shareAtLeastOne": 0.9948,
+      "identical": 0.7016,
+      "opposite": 0.0052
+    },
+    {
+      "id": "12",
+      "compared": 33225,
+      "ibs0": 1507,
+      "ibs1": 11262,
+      "ibs2": 20456,
+      "shareAtLeastOne": 0.9546,
+      "identical": 0.6157,
+      "opposite": 0.0454
+    },
+    {
+      "id": "13",
+      "compared": 25968,
+      "ibs0": 0,
+      "ibs1": 7049,
+      "ibs2": 18919,
+      "shareAtLeastOne": 1.0,
+      "identical": 0.7286,
+      "opposite": 0.0
+    },
+    {
+      "id": "14",
+      "compared": 21813,
+      "ibs0": 1213,
+      "ibs1": 7782,
+      "ibs2": 12818,
+      "shareAtLeastOne": 0.9444,
+      "identical": 0.5876,
+      "opposite": 0.0556
+    },
+    {
+      "id": "15",
+      "compared": 20298,
+      "ibs0": 645,
+      "ibs1": 6862,
+      "ibs2": 12791,
+      "shareAtLeastOne": 0.9682,
+      "identical": 0.6302,
+      "opposite": 0.0318
+    },
+    {
+      "id": "16",
+      "compared": 21403,
+      "ibs0": 900,
+      "ibs1": 7229,
+      "ibs2": 13274,
+      "shareAtLeastOne": 0.9579,
+      "identical": 0.6202,
+      "opposite": 0.0421
+    },
+    {
+      "id": "17",
+      "compared": 19035,
+      "ibs0": 1018,
+      "ibs1": 6822,
+      "ibs2": 11195,
+      "shareAtLeastOne": 0.9465,
+      "identical": 0.5881,
+      "opposite": 0.0535
+    },
+    {
+      "id": "18",
+      "compared": 20340,
+      "ibs0": 168,
+      "ibs1": 6120,
+      "ibs2": 14052,
+      "shareAtLeastOne": 0.9917,
+      "identical": 0.6909,
+      "opposite": 0.0083
+    },
+    {
+      "id": "19",
+      "compared": 13938,
+      "ibs0": 29,
+      "ibs1": 4102,
+      "ibs2": 9807,
+      "shareAtLeastOne": 0.9979,
+      "identical": 0.7036,
+      "opposite": 0.0021
+    },
+    {
+      "id": "20",
+      "compared": 17373,
+      "ibs0": 220,
+      "ibs1": 5213,
+      "ibs2": 11940,
+      "shareAtLeastOne": 0.9873,
+      "identical": 0.6873,
+      "opposite": 0.0127
+    },
+    {
+      "id": "21",
+      "compared": 9547,
+      "ibs0": 358,
+      "ibs1": 3385,
+      "ibs2": 5804,
+      "shareAtLeastOne": 0.9625,
+      "identical": 0.6079,
+      "opposite": 0.0375
+    },
+    {
+      "id": "22",
+      "compared": 9735,
+      "ibs0": 290,
+      "ibs1": 3163,
+      "ibs2": 6282,
+      "shareAtLeastOne": 0.9702,
+      "identical": 0.6453,
+      "opposite": 0.0298
+    },
+    {
+      "id": "X",
+      "compared": 16765,
+      "ibs0": 2,
+      "ibs1": 4382,
+      "ibs2": 12381,
+      "shareAtLeastOne": 0.9999,
+      "identical": 0.7385,
+      "opposite": 0.0001
+    }
+  ],
+  "note": "IBS from unphased microarray genotypes. Opposite homozygotes (IBS0) cannot sit in a shared segment. Paternal grandmother and granddaughter are expected to share about one quarter of autosomal DNA and the father's X. Chromosome 13 has zero opposite homozygotes; X has two in 16,765 compared sites."
+}

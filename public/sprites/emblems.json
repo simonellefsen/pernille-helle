@@ -1,0 +1,44 @@
+{"frames": {
+
+"farmer.jpg":
+{
+	"frame": {"x":9,"y":9,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"hunter.jpg":
+{
+	"frame": {"x":531,"y":9,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"invader.jpg":
+{
+	"frame": {"x":9,"y":531,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"maternal.jpg":
+{
+	"frame": {"x":531,"y":531,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emblems.png",
+	"format": "RGBA8888",
+	"size": {"w":1052,"h":1052},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d14338d10557023431903b0a64f76d29:5721ca7e7468c23cbd8e9f01f7cd6520:0ca4860c40f18d79176298fee5bac4fe$"
+}
+}

@@ -1,0 +1,178 @@
+{
+  "note": "Pernille\u2019s autosomes are one maternal haplotype plus one paternal haplotype. The paternal haplotype is a recombinant mix of Helle and the paternal grandfather. Long no-IBS0 runs are assigned to Helle; the rest of the paternal copy is counted as not-Helle (mostly paternal grandfather, plus any Helle segments below the length cutoff). The maternal haplotype cannot be painted as a block without the mother on the chip. In Helle-assigned regions, sites where Helle is homozygous and Pernille is heterozygous reveal the mother\u2019s allele. X: father passed Helle\u2019s X intact, so Pernille\u2019s paternal X is Helle and her other X is her mother. mtDNA is entirely the mother.",
+  "fractions": {
+    "haploidAutosomalCm": 3544.1,
+    "helleAssignedCm": 1453.2,
+    "helleAssignedAutosomalPct": 20.5,
+    "notHellePaternalPct": 29.5,
+    "motherAutosomalPct": 50.0,
+    "expectedHellePct": 25,
+    "xHelleCm": 173.3,
+    "xMapCm": 180.84,
+    "xHellePctOfMap": 95.8
+  },
+  "chromosomes": {
+    "silent": [
+      "1",
+      "14",
+      "17"
+    ],
+    "mostlyHelle": [
+      "7",
+      "8",
+      "11",
+      "13",
+      "18",
+      "19",
+      "20"
+    ]
+  },
+  "maternalInformative": {
+    "autosomalInHelleBlocks": 43092,
+    "snpsInHelleBlocks": 289114,
+    "x": 2246,
+    "xCompared": 16765,
+    "xHelleHomozygous": 12424,
+    "xBothHomozygousSame": 10176,
+    "xOpposite": 2
+  },
+  "origins": {
+    "scandinavia": {
+      "helle": 41,
+      "pernille": 71,
+      "otherThreeQuarters": 81.0,
+      "expectedIfRandomHelle": 10.2
+    },
+    "central-europe": {
+      "helle": 41,
+      "pernille": 28,
+      "otherThreeQuarters": 23.7,
+      "expectedIfRandomHelle": 10.2
+    },
+    "ireland": {
+      "helle": 19,
+      "pernille": 0,
+      "otherThreeQuarters": -6.3,
+      "expectedIfRandomHelle": 4.8
+    },
+    "isles": {
+      "helle": 0,
+      "pernille": 1.5,
+      "otherThreeQuarters": 2.0,
+      "expectedIfRandomHelle": 0.0
+    }
+  },
+  "ancient": {
+    "hunter": {
+      "helle": 49,
+      "pernille": 50,
+      "otherThreeQuarters": 50.3
+    },
+    "farmer": {
+      "helle": 40,
+      "pernille": 38,
+      "otherThreeQuarters": 37.3
+    },
+    "invader": {
+      "helle": 11,
+      "pernille": 13,
+      "otherThreeQuarters": 13.7
+    }
+  },
+  "traits": [
+    {
+      "id": "lactase",
+      "rsid": "rs4988235",
+      "label": "Lactase persistence",
+      "pernille": "A/A",
+      "helle": "A/A",
+      "same": true
+    },
+    {
+      "id": "lactase2",
+      "rsid": "rs182549",
+      "label": "Lactase persistence (linked)",
+      "pernille": null,
+      "helle": "T/T",
+      "same": null
+    },
+    {
+      "id": "eyes",
+      "rsid": "rs12913832",
+      "label": "Eye colour",
+      "pernille": null,
+      "helle": null,
+      "same": null
+    },
+    {
+      "id": "skin24a5",
+      "rsid": "rs1426654",
+      "label": "Light skin (SLC24A5)",
+      "pernille": "A/A",
+      "helle": "A/A",
+      "same": true
+    },
+    {
+      "id": "skin45a2",
+      "rsid": "rs16891982",
+      "label": "Light skin (SLC45A2)",
+      "pernille": null,
+      "helle": null,
+      "same": null
+    },
+    {
+      "id": "irf4",
+      "rsid": "rs12203592",
+      "label": "Hair / freckling",
+      "pernille": null,
+      "helle": null,
+      "same": null
+    },
+    {
+      "id": "mc1r7",
+      "rsid": "rs1805007",
+      "label": "Red hair (R151C)",
+      "pernille": null,
+      "helle": null,
+      "same": null
+    },
+    {
+      "id": "mc1r8",
+      "rsid": "rs1805008",
+      "label": "Red hair (R160W)",
+      "pernille": "C/C",
+      "helle": "C/C",
+      "same": true
+    },
+    {
+      "id": "earwax",
+      "rsid": "rs17822931",
+      "label": "Earwax type",
+      "pernille": "C/C",
+      "helle": "C/C",
+      "same": true
+    },
+    {
+      "id": "edar",
+      "rsid": "rs3827760",
+      "label": "EDAR V370A",
+      "pernille": "A/A",
+      "helle": "A/A",
+      "same": true
+    },
+    {
+      "id": "secretor",
+      "rsid": "rs601338",
+      "label": "ABO secretor status",
+      "pernille": "T/T",
+      "helle": "T/T",
+      "same": true
+    }
+  ],
+  "mtdna": {
+    "mother": "H10a1u",
+    "helle": "H1e1b1f1",
+    "sharedNode": "H",
+    "sharedWhen": "8000 BCE"
+  }
+}
