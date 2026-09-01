@@ -17,6 +17,7 @@ export function proxy(request: NextRequest) {
     pathname.startsWith("/images") ||
     pathname.startsWith("/sprites") ||
     pathname === "/icon" ||
+    pathname === "/apple-icon" ||
     pathname.includes(".")
   ) {
     return NextResponse.next();
